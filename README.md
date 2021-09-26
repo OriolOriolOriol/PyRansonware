@@ -2,15 +2,12 @@
 
 ## Hint
 
-Line 103: #print('Password generata: {}'.format(password_generata))
-Uncomment this print to see the generated password and decrypt. 
 
-Besides to that, as a simple example, I wanted to encrypt only one folder that I called **ciao**.
-
-You can see the paths to the folder that will be encrypted on line 99-100
-
-Finally, there is a **ransonware.exe**
-
+<ul>
+  <li>Line 103: #print('Password generata: {}'.format(password_generata)). Uncomment this print to see the generated password and decrypt. </li>
+  <li>I wanted to encrypt only one folder that I called "ciao". You can see the paths to the folder that will be encrypted on line 99-100</li>
+  <li>there is a **ransonware.exe**</li>
+</ul>
 
 ## Dependencies
 
