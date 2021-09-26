@@ -30,4 +30,8 @@ click on Don't_open_me.pdf
 ```
 ## Info
 
-If you want to change something, just edit the file in python and then **pyinstaller Ransonware.py --onefile**.
+If you want to change something, just edit the file in python and then
+
+```
+pyinstaller Ransonware.py --onefile
+```
