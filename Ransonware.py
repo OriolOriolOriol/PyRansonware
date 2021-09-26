@@ -96,7 +96,7 @@ def decifra():
 ###FUNZIONE PRINCIPALE###############
 if __name__ == '__main__':
     username = getpass.getuser()
-    pattern_linux=f"/home/{username}"
+    pattern_linux=f"/home/{username}/ciao"
     pattern_windows =f"C:\\Users\\{username}\\ciao"
     lunghezza = 125
     password_generata = genera_password(lunghezza)
