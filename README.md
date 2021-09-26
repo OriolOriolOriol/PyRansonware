@@ -1,4 +1,4 @@
-# Ransonware in python3 (Tested for Windows)
+# Ransonware in Python3 (Tested for Windows)
 
 ## Hint
 
